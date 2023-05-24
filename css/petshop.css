@@ -156,19 +156,10 @@ footer {
     justify-content: center;
     height: 2.5rem;
     width: 2.5rem;
-    color: #fff;
+    color: #ffffff;
     border-radius: 50%;
     transition: all 0.4s;
 }
-
-#footer_social_media .footer-link i {
-    font-size: 1.25rem;    
-}
-
-#footer_social_media .footer-link:hover {
-    opacity: 0.8;
-}
-
 #instagram {
     background: linear-gradient(#7f37c9, #ff2992, #ff9807);
 }
